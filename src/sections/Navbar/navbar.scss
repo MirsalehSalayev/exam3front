@@ -1,0 +1,16 @@
+.NavbarComponent{
+    background-color:green ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    .NavbarTitle{
+        color: white;
+    }
+    .NavbarPages{
+        display: flex;
+        gap:10px;
+        color: white;
+
+    }
+}
